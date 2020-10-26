@@ -3,8 +3,7 @@ import { Container } from './styles';
 
 const NavBar = () => {
   return (
-    <Container container xs={12}>
-        ASDAS 
+    <Container container xs={10}>
     </Container>
   )
 }
