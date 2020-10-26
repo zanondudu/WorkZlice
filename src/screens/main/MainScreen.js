@@ -1,10 +1,11 @@
 import React from 'react'
+import NavBar from '../../components/navBar/NavBar'
 
 const MainScreen = () => {
   return (
-    <div>
-      Dale
-    </div>
+    <>
+      <NavBar />
+    </>
   )
 }
 
